@@ -33,3 +33,8 @@ There is a `docker-compose` file for getting up and running with Apache NiFi,Pos
 
 ## Architecture Diagram
 ![Untitled Diagram](https://user-images.githubusercontent.com/67249292/209466508-97b207b9-6f0c-4fee-aae2-f23ff01b9c9b.jpg)
+
+## Docker compose
+
+1. clone this project
+2. `docker-compose up -d`
