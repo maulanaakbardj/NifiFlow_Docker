@@ -29,7 +29,7 @@ Apache NiFi was made for dataflow. It supports highly configurable directed grap
 # Dataflow Apache NiFi
 
 Example Apache NiFi implementation 
-There is a `docker-compose` file for getting up and running with Apache NiFi,PostgresDB, and pgAdmin. 
+There is a `docker-compose` file for getting up and running with Apache NiFi, PostgresDB, and pgAdmin. 
 
 ## Example Dataflow Diagram
 ![Untitled Diagram](https://user-images.githubusercontent.com/67249292/209466508-97b207b9-6f0c-4fee-aae2-f23ff01b9c9b.jpg)
