@@ -36,5 +36,5 @@ There is a `docker-compose` file for getting up and running with Apache NiFi,Pos
 
 ## Docker compose
 
-1. clone this project
-2. `docker-compose up -d`
+*  clone this project
+*  `docker-compose up -d`
