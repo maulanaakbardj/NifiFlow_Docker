@@ -36,5 +36,7 @@ There is a `docker-compose` file for getting up and running with Apache NiFi, Po
 
 ## Docker compose
 
-*  clone this project
-*  `docker-compose up -d`
+*  Clone this project `git clone https://github.com/maulanaakbardj/NifiFlow_Docker.git`
+*  Open folder project `cd NifiFlow_Docker`
+*  Make sure that docker-compose.yml file are present in the local directory and then start run: `docker-compose up -d`
+
